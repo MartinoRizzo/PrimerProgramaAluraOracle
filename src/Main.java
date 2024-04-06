@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int opcion = 0;
+        int opcion;
         Scanner leer = new Scanner(System.in);
         double saldo = 1500.0;
 
